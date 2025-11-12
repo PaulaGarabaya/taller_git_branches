@@ -1,1 +1,3 @@
-      alert("¡Hola! Este es un mensaje de alerta en JavaScript");
+window.onload = function() {
+      alert("¡Hola! Este es un mensaje de alerta en JavaScript 😄");
+    };
